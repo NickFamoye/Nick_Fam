@@ -70,7 +70,7 @@ Ensure you follow the above configurations, after which you can input the code i
 * ⚛ Hive 
 * ⚛ Linux
 
-- 🔭working At Revature as a Big Data Engineer
+## Big Data Engineer at Revature 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickFamoye)](https://github.com/anuraghazra/github-readme-stats)
