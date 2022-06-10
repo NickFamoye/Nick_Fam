@@ -1,5 +1,7 @@
 ![Big Data Engineer](https://github.com/NickFamoye/NickFamoye/blob/main/Blue%20and%20yellow%20simple%20digital%20marketing%20banner%20(1).png)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_famoye/)
+
 # Nicholas Famoye
 My name is Nicholas Famoye, i transitioned from a sociological background into technology as a Big Data Engineer. i enjoy analyzing and programming which promt my enthusiastic quest towards learning programing languages, frameworks and databases like Python, Scala, linux, SQL, MongoDB that can enhance my productivity in an effective and efficient way with an utmost desire to develop application and analyze big data to deduce meaningful information for real-time diagnostic, descriptive, predictive and prescriptive purposes.
 
@@ -13,14 +15,14 @@ This is  my first interactive Back-end programming application project designed 
 <img src="https://github.com/NickFamoye/NickFamoye/blob/main/Gif.webp" width="256" />
 
 ## Technologies Used
-• Python 3.10 • MongoDB
+• Python - version 3.10.4
 
-• PyMongo
+• MongoDB Shell - version 5.0.7
 
-• MongoDBCompass
+• PyMongo - version 4.1.1
 
 Integrated Development Environment
-•	Intellij 2011
+•	Intellij - version 2011
 
 ## Features
 • A menu system that a user can access to login and view task options.
@@ -42,8 +44,22 @@ To-do list
 
 • Scalable user functionality with ability to store user data.
 
+## Getting Started
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_famoye/)  
+•	Installed the correct versions of Python, Spark (2.4.8) and JDK (1.8).
+
+•	Add JDK and Spark homes to the PATH variables for your system.
+
+•	Download all code files, including build.sbt.
+
+•	Configure IntelliJ or IDE of your choice to work with the appropriate version of JDK.
+
+•	Run from within IDE.
+
+
+## Usage
+
+Ensure you follow the above configurations, after which you can input the code into you preferred IDE and run the menu.  
 
 ## General Skills and Experience
 * ⚛ Python 
