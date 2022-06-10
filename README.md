@@ -35,6 +35,7 @@ Integrated Development Environment
 • Matplotlib graph for visualization of accomplished task
 
 To-do list
+
 • A functional and unique user login system.
 
 • More efficient code.
