@@ -1,5 +1,5 @@
 ![Big Data Engineer](https://github.com/NickFamoye/NickFamoye/blob/main/Blue%20and%20yellow%20simple%20digital%20marketing%20banner%20(1).png)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-famoye/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_famoye/)
 
 # Nicholas Famoye
