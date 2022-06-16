@@ -49,7 +49,7 @@ To-do list
 
 •	Installed the correct versions of Python, Mongodb and PyMongo
 
-•	Download all code files, including build.sbt.
+•	Download all code files
 
 •	Configure IntelliJ or IDE of your choice.
 
