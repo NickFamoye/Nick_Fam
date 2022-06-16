@@ -15,15 +15,15 @@ This is  my first interactive Back-end programming application project designed 
 <img src="https://github.com/NickFamoye/NickFamoye/blob/main/Gif.webp" width="256" />
 
 ## Technologies Used
-• Python - version 3.10.4
+• Python - 3.10.4 version
 
-• MongoDB Shell - version 5.0.7
+• MongoDB Shell - 5.0.7 version
 
-• PyMongo - version 4.1.1
+• PyMongo - 4.1.1 version
 
 ## Integrated Development Environment
 
-•	Intellij - version 2011
+•	Intellij - 2022 version
 
 ## Features
 • A menu system that a user can access to login and view task options.
@@ -47,13 +47,11 @@ To-do list
 
 ## Getting Started
 
-•	Installed the correct versions of Python, Spark (2.4.8) and JDK (1.8).
-
-•	Add JDK and Spark homes to the PATH variables for your system.
+•	Installed the correct versions of Python, Mongodb and PyMongo
 
 •	Download all code files, including build.sbt.
 
-•	Configure IntelliJ or IDE of your choice to work with the appropriate version of JDK.
+•	Configure IntelliJ or IDE of your choice.
 
 •	Run from within IDE.
 
